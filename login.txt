@@ -2,3 +2,4 @@ Pantalla: Inicio de sesion
 Campo: Correo electronico
 Campo: Contrasena
 Estado: En desarrollo
+Validacion: Campos requeridos
