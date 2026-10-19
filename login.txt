@@ -1,0 +1,3 @@
+Pantalla: Inicio de sesion
+Campo: Correo electronico
+Campo: Contrasena
